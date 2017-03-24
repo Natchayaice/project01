@@ -24,14 +24,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-display-container">
           <img src="11.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2>Jane Doe</h2>
+            <h2>NATCHAYA</h2>
           </div>
         </div>
         <div class="w3-container">
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>photography</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Hat yai,Thailand</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>icekittyza@gmil.com</p>
-          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>1224435534</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>088888888</p>
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
@@ -56,18 +56,15 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <br>
 
           <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
-          <p>English</p>
+          <p>Thailand</p>
           <div class="w3-light-grey w3-round-xlarge">
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
           </div>
-          <p>Spanish</p>
+          <p>English</p>
           <div class="w3-light-grey w3-round-xlarge">
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:55%"></div>
           </div>
-          <p>German</p>
-          <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
-          </div>
+          
           <br>
         </div>
       </div><br>
@@ -79,7 +76,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <div class="w3-twothird">
     
       <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>About Me</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Front End Developer / w3schools.com</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
