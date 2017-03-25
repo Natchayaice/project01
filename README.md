@@ -9,7 +9,7 @@
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
-<body class="w3-light-grey">
+<body class="w3-light-pink">
 
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1400px;">
@@ -23,8 +23,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
           <img src="17265289_1418367911546805_3364829797067986084_n.jpg" style="width:100%" alt="Avatar">
-          <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2>NATCHAYA</h2>
+          <div class="w3-display-bottomleft w3-container w3-text-white">
+            <h2>NATCHAYA iceicen</h2>
           </div>
         </div>
         <div class="w3-container">
