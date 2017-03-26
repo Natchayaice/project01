@@ -11,7 +11,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
 <body style="background:url(22.jpg)">
 <!-- Page Container -->
-<div class="w3-content w3-margin-top" style="max-width:1500px;">
+<div class="w3-content w3-margin-top" style="max-width:2000px;">
 
   <!-- The Grid -->
   <div class="w3-row-padding">
@@ -84,7 +84,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-        <img src="333.jpg" alt="me" style="width:50%" src="444.jpg" alt="me1" style="width:50%">
+        <img src="333.jpg" alt="me" style="width:50%"> <img src="444.jpg" alt="me1" style="width:50%">
           <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2017</h6>
           <p>Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
