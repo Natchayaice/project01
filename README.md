@@ -87,7 +87,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
          
         <h5 class="w3-opacity w3-black w3-center"><b>Favorite</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2017</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2017</h6>
           <p>color : pink and rainbows <br>
           food : Japanese Food <br>
           dessert : cake <br>
@@ -98,7 +98,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       </div>
 
       <div class="w3-container w3-card-2  ">
-      <h2 class="w3-text-pink w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal-pink"></i>Education</h2>
+      <h2 class="w3-text-black w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal-black"></i>Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity-white"><b>Information Systems</b></h5>
           <h6 class="w3-text-teal-white"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2015- 2019</h6>
