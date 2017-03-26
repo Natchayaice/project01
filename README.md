@@ -102,13 +102,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity-white w3-center w3-text-white"><b>Information Systems</b></h5>
           <h6 class="w3-text-white"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2015- 2019</h6>
-          <p>Web Development! All I need to know in one place</p>
+          <p>  class="w3-text-white" Web Development! All I need to know in one place</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity-white w3-center w3-text-white"><b>Activities</b></h5>
           <h6 class="w3-text-white"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Forever</h6>
-          <p>listen to music
+          <p> class="w3-text-white" listen to music
             <br>
             take photos
             <br>
