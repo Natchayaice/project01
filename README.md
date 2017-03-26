@@ -9,8 +9,8 @@
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
-<body class="w3-pink">
-
+<body >
+<img class="w3-image" src="22.jpg" alt="Architecture" width="1500" height="800">
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1500px;">
 
