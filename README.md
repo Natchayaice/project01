@@ -76,6 +76,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <div class="w3-twothird">
     
       <div class="w3-container w3-card-2 w3-pale-black w3-margin-bottom">
+      <img src="333.jpg" alt="me" style="width:50%"> 
+      <img src="444.jpg" alt="me1" style="width:50%">
         <h2 class="w3-text-black w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>About Me</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Birthday</b></h5>
@@ -84,7 +86,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-        <img src="333.jpg" alt="me" style="width:50%"> 
+         
         <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2017</h6>
           <p>Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
@@ -110,7 +112,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
             <br>
             graphic design</p>
           <hr>
-          <img src="444.jpg" alt="me1" style="width:50%">
+         
         </div>
         
       </div>
