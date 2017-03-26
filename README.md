@@ -19,7 +19,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Left Column -->
     <div class="w3-third">
     
-      <div class="w3-whiet w3-text-black w3-card-4">
+      <div class="w3-black w3-text-whiet w3-card-4">
         <div class="w3-display-container">
           <img src="17265289_1418367911546805_3364829797067986084_n.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-white">
@@ -75,7 +75,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Right Column -->
     <div class="w3-twothird">
     
-      <div class="w3-container w3-card-2 w3-pale-red w3-margin-bottom">
+      <div class="w3-container w3-card-2 w3-pale-green w3-margin-bottom">
         <h2 class="w3-text-black w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>About Me</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Birthday</b></h5>
