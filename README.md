@@ -77,7 +77,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-container w3-card-2 w3-pale-black w3-margin-bottom">
         <h2 class="w3-text-black w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>About Me</h2>
-        <div class="w3-container">
+        <div class="w3-container w3-white">
         <img src="333.jpg" alt="me" style="width:50%"> 
         <img src="444.jpg" alt="me1" style="width:50%">
           <h5 class="w3-opacity w-black"><b>Birthday</b></h5>
