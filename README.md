@@ -11,7 +11,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
 <body style="background:url(22.jpg)">
 <!-- Page Container -->
-<div class="w3-content w3-margin-top" style="max-width:2,500px;">
+<div class="w3-content w3-margin-top" style="max-width:2,000px;">
 
   <!-- The Grid -->
   <div class="w3-row-padding">
@@ -95,7 +95,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       </div>
 
       <div class="w3-container w3-card-2 w3-blue ">
-      <h2 class="w3-text-white w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+      <h2 class="w3-text-white w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal-white"></i>Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity-white"><b>Information Systems</b></h5>
           <h6 class="w3-text-teal-white"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2015- 2019</h6>
