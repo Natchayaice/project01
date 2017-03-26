@@ -97,16 +97,16 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
        
       </div>
 
-      <div class="w3-container w3-card-2  ">
+      <div class="w3-container w3-card-2 w3-pale-white ">
       <h2 class="w3-text-black w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal-black"></i>Education</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity-white"><b>Information Systems</b></h5>
+          <h5 class="w3-opacity-white w3-center"><b>Information Systems</b></h5>
           <h6 class="w3-text-teal-white"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2015- 2019</h6>
           <p>Web Development! All I need to know in one place</p>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity-white"><b>Activities</b></h5>
+          <h5 class="w3-opacity-white w3-center"><b>Activities</b></h5>
           <h6 class="w3-text-teal-white"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Forever</h6>
           <p>listen to music
             <br>
